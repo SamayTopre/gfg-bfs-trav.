@@ -1,1 +1,1 @@
-# gfg-bfs-trav.
+# BFS TRAVERSAL.
